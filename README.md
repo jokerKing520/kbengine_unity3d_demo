@@ -2,7 +2,7 @@ KBEngine_unity3d_demo
 =============
 
 ## This client-project is written for KBEngine(a MMOG engine of server)
-
+-thanks
 http://www.kbengine.org
 
 ## 中文
